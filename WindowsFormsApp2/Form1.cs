@@ -14,7 +14,7 @@ namespace WindowsFormsApp2
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
 
         private void open_Click(object sender, EventArgs e)
